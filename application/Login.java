@@ -13,7 +13,7 @@ public class Login extends JFrame implements ActionListener{
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
         
-        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("#"));
+        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("img/login.png"));
         JLabel image = new JLabel(i1);
         image.setBounds(0, 0, 600, 500);
         add(image);
