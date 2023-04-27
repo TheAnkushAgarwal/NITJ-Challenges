@@ -41,76 +41,76 @@ public class Quiz extends JFrame implements ActionListener {
         question.setFont(new Font("Tahoma", Font.PLAIN, 24));
         add(question);
         
-        questions[0][0] = "#";
-        questions[0][1] = "#";
-        questions[0][2] = "#";
-        questions[0][3] = "#";
-        questions[0][4] = "#";
+        questions[0][0] = "In which year NIT J was Established";
+        questions[0][1] = "1992";
+        questions[0][2] = "1987";
+        questions[0][3] = "2002";
+        questions[0][4] = "2007";
 
-        questions[1][0] = "#";
-        questions[1][1] = "#";
-        questions[1][2] = "#";
-        questions[1][3] = "#";
-        questions[1][4] = "#";
+        questions[1][0] = "In which year NIT Jalandhar was recognised as an Institute of Natonal Importance";
+        questions[1][1] = "2005";
+        questions[1][2] = "2002";
+        questions[1][3] = "2007";
+        questions[1][4] = "2006";
 
-        questions[2][0] = "#";
-        questions[2][1] = "#";
-        questions[2][2] = "#";
-        questions[2][3] = "#";
-        questions[2][4] = "#";
+        questions[2][0] = "NIT J campus,spreads over an area of how many acres ";
+        questions[2][1] = "154";
+        questions[2][2] = "157";
+        questions[2][3] = "163";
+        questions[2][4] = "159";
 
-        questions[3][0] = "#";
-        questions[3][1] = "#";
-        questions[3][2] = "#";
-        questions[3][3] = "#";
-        questions[3][4] = "#";
+        questions[3][0] = "How many departments,are there which comes under B.Tech Programmes";
+        questions[3][1] = "13";
+        questions[3][2] = "9";
+        questions[3][3] = "11";
+        questions[3][4] = "10";
 
-        questions[4][0] = "#";
-        questions[4][1] = "#";
-        questions[4][2] = "#";
-        questions[4][3] = "#";
-        questions[4][4] = "#";
+        questions[4][0] = "What is the name of Current Director of NIT J";
+        questions[4][1] = "Binod Kumar Kanaujia";
+        questions[4][2] = "Ramana Reddy";
+        questions[4][3] = "Rangan Banerjee";
+        questions[4][4] = "Rashmi Mittal";
 
-        questions[5][0] = "#";
-        questions[5][1] = "#";
-        questions[5][2] = "#";
-        questions[5][3] = "#";
-        questions[5][4] = "#";
+        questions[5][0] = "Who created and lead the older version of NIT J Website";
+        questions[5][1] = "Kriti Soni";
+        questions[5][2] = "Vipin Kumar";
+        questions[5][3] = "Bhupinderjit Singh";
+        questions[5][4] = "Anjali Sharma";
 
-        questions[6][0] = "#";
-        questions[6][1] = "#";
-        questions[6][2] = "#";
-        questions[6][3] = "#";
-        questions[6][4] = "#";
+        questions[6][0] = "WHat is the name of the cultural fest of NIT Jalandhar ";
+        questions[6][1] = "Mood Swing";
+        questions[6][2] = "Utkansh";
+        questions[6][3] = "Rendezvous";
+        questions[6][4] = "Exodia";
 
-        questions[7][0] = "#";
-        questions[7][1] = "#";
-        questions[7][2] = "#";
-        questions[7][3] = "#";
-        questions[7][4] = "#";
+        questions[7][0] = "What is the name of the Technical fest of NIT Jalandhar ";
+        questions[7][1] = "Techfest";
+        questions[7][2] = "Hackfest";
+        questions[7][3] = "Techniti";
+        questions[7][4] = "Tryst";
 
-        questions[8][0] = "#";
-        questions[8][1] = "#";
-        questions[8][2] = "#";
-        questions[8][3] = "#";
-        questions[8][4] = "#";
+        questions[8][0] = " Which event is organised on the foundation day of NIT J Bharat Dhawni";
+        questions[8][1] = "Alcheringa ";
+        questions[8][2] = "Bharat Dhawni";
+        questions[8][3] = "Vijay Jeet";
+        questions[8][4] = "Nishan Diwas";
 
-        questions[9][0] = "#";
-        questions[9][1] = "#";
-        questions[9][2] = "#";
-        questions[9][3] = "#";
-        questions[9][4] = "#";
+        questions[9][0] = "Current NIRF ranking of NIT J ";
+        questions[9][1] = "52";
+        questions[9][2] = "49";
+        questions[9][3] = "53";
+        questions[9][4] = "51";
         
-        answers[0][1] = "JDB";
-        answers[1][1] = "int";
-        answers[2][1] = "java.util package";
-        answers[3][1] = "Marker Interface";
-        answers[4][1] = "Heap memory";
-        answers[5][1] = "Remote interface";
-        answers[6][1] = "import";
-        answers[7][1] = "Java Archive";
-        answers[8][1] = "java.lang.StringBuilder";
-        answers[9][1] = "Bytecode is executed by JVM";
+        answers[0][1] = "1987";
+        answers[1][1] = "2007";
+        answers[2][1] = "154";
+        answers[3][1] = "11";
+        answers[4][1] = "Binod Kumar Kanaujia";
+        answers[5][1] = "Bhupinderjit Singh";
+        answers[6][1] = "Utkansh";
+        answers[7][1] = "Techniti";
+        answers[8][1] = "Bharat Dhawni";
+        answers[9][1] = "53";
         
         opt1 = new JRadioButton();
         opt1.setBounds(170, 520, 700, 30);

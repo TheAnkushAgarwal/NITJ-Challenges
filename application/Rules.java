@@ -25,7 +25,13 @@ public class Rules extends JFrame implements ActionListener{
         rules.setFont(new Font("Tahoma", Font.PLAIN, 16));
         rules.setText(
             "<html>"+
-            "#"+
+            "1.You have only 15sec to answer a question"+
+            "2.You can select only one option per question"+
+            "3.If you do not answer a question in 15s you will be automatically taken to next question"+
+            "4.You cannot come back to a question once the timer times out."+
+            "5.You will be awarded 10 points for each correct answer."+
+            "6.There is no negative marking for a wrong answer."+
+            "7.ALL THE BEST"+
             "<html>"
         );
         add(rules);
@@ -63,3 +69,5 @@ public class Rules extends JFrame implements ActionListener{
         new Rules("User");
     }
 }
+
+
