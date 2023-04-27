@@ -23,7 +23,6 @@ The final score page displays the user's final score after completing the quiz.
 ## Technologies Used
 ### Java
 ### Swing
-### Usage
 To use the application, download the project files and run the login page. Follow the on-screen instructions to take the quiz.
 
 # Team Members Name
