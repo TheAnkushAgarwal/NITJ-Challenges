@@ -27,7 +27,7 @@ public class Quiz extends JFrame implements ActionListener {
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
         
-        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("#"));
+        ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("img/quiz.png"));
         JLabel image = new JLabel(i1);
         image.setBounds(0, 0, 1440, 392);
         add(image);
