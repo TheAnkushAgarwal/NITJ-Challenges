@@ -27,8 +27,8 @@ The final score page displays the user's final score after completing the quiz.
 To use the application, download the project files and run the login page. Follow the on-screen instructions to take the quiz.
 
 # Team Members Name
-Ankush Agarwal
-Khalid Meraj
-Khushaal Sareen
-Kamini Kaushal Singh
+## Ankush Agarwal
+## Khalid Meraj
+## Khushaal Sareen
+## Kamini Kaushal Singh
 Note: This application has been specifically created for NITJ related questions, and the set of questions is fixed.
