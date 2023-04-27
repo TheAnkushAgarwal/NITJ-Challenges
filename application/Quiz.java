@@ -1,4 +1,4 @@
-package quiz.application;
+package application;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
